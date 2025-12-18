@@ -1,0 +1,15 @@
+To calculate Follow of X if grammar is - [['S', ['xXZA']], ['Z', ['z', 'e']], ['A', ['a', 'e']]]
+----------------------------------------------------------------------------------------------------------------------
+Enter y to take user input or use defaultN
+
+[['S', ['xXZA']], ['Z', ['z', 'e']], ['A', ['a', 'e']]]
+
+[['S', 'var'], ['Z', 'var'], ['A', 'var'], ['x', 'term'], ['X', 'term'], ['z', 'term'], ['e', 'term'], ['a', 'term']]
+
+*******************************************
+
+Entering get Follow with ch: X, follow: set()
+
+Entering get Follow with ch: S, follow: {'a', 'z'}
+
+Follow Set:  {'a', '$', 'z'}

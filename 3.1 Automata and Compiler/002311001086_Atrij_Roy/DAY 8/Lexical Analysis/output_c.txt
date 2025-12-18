@@ -1,0 +1,44 @@
+Token: int             → Keyword
+Token: main            → Identifier
+Token: (               → Separator
+Token: )               → Separator
+Token: {               → Separator
+Token: int             → Keyword
+Token: x               → Identifier
+Token: =               → Operator
+Token: 10              → Constant
+Token: ;               → Separator
+Token: int             → Keyword
+Token: y               → Identifier
+Token: =               → Operator
+Token: 2               → Constant
+Token: ;               → Separator
+Token: int             → Keyword
+Token: z               → Identifier
+Token: =               → Operator
+Token: 2               → Constant
+Token: ;               → Separator
+Token: if              → Keyword
+Token: (               → Separator
+Token: x               → Identifier
+Token: >               → Operator
+Token: 5               → Constant
+Token: )               → Separator
+Token: {               → Separator
+Token: x               → Identifier
+Token: =               → Operator
+Token: x               → Identifier
+Token: +               → Operator
+Token: 1               → Constant
+Token: ;               → Separator
+Token: }               → Separator
+Token: }               → Separator
+No lexical errors.
+
+Symbol Table (Unique Identifiers):
+main
+x
+y
+z
+
+Total tokens: 35

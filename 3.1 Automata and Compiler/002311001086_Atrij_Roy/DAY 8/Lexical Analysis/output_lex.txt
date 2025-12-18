@@ -1,0 +1,2553 @@
+Operator/Punct: /
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Unknown token: 
+Unknown token: 
+Identifier: Online
+Identifier: C
+Identifier: Compiler
+Unknown token: .
+Unknown token: 
+Identifier: Code
+Operator/Punct: ,
+Identifier: Compile
+Operator/Punct: ,
+Identifier: Run
+Identifier: and
+Identifier: Debug
+Identifier: C
+Identifier: program
+Identifier: online
+Unknown token: .
+Unknown token: 
+Identifier: Write
+Identifier: your
+Identifier: code
+Identifier: in
+Identifier: this
+Identifier: editor
+Identifier: and
+Identifier: press
+Unknown token: "
+Identifier: Run
+Unknown token: "
+Identifier: button
+Identifier: to
+Identifier: compile
+Identifier: and
+Identifier: execute
+Identifier: it
+Unknown token: .
+Unknown token: 
+Unknown token: 
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: *
+Operator/Punct: /
+Unknown token: 
+Unknown token: 
+Unknown token: #
+Identifier: include
+Operator/Punct: <
+Identifier: stdio
+Unknown token: .
+Identifier: h
+Operator/Punct: >
+Unknown token: 
+Unknown token: #
+Identifier: include
+Operator/Punct: <
+Identifier: stdlib
+Unknown token: .
+Identifier: h
+Operator/Punct: >
+Unknown token: 
+Unknown token: #
+Identifier: include
+Operator/Punct: <
+Identifier: string
+Unknown token: .
+Identifier: h
+Operator/Punct: >
+Unknown token: 
+Unknown token: #
+Identifier: include
+Operator/Punct: <
+Identifier: ctype
+Unknown token: .
+Identifier: h
+Operator/Punct: >
+Unknown token: 
+Unknown token: 
+Unknown token: #
+Identifier: define
+Identifier: MAX_IDENTIFIERS
+Number: 1000
+Unknown token: 
+Unknown token: #
+Identifier: define
+Identifier: MAX_IDENTIFIER_LEN
+Number: 100
+Unknown token: 
+Unknown token: #
+Identifier: define
+Identifier: MAX_LINE_LEN
+Number: 1024
+Unknown token: 
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Keywords
+Identifier: list
+Unknown token: 
+Keyword: const
+Keyword: char
+Operator/Punct: *
+Identifier: keywords
+Unknown token: [
+Unknown token: ]
+Operator/Punct: =
+Operator/Punct: {
+Unknown token: 
+Unknown token: "
+Identifier: auto
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: break
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: case
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: char
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: const
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: continue
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: default
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: do
+Unknown token: "
+Operator/Punct: ,
+Unknown token: 
+Unknown token: "
+Keyword: double
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: else
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: enum
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: extern
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: float
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: for
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: goto
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: if
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: int
+Unknown token: "
+Operator/Punct: ,
+Unknown token: 
+Unknown token: "
+Keyword: long
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: register
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: return
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: short
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: signed
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: sizeof
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: static
+Unknown token: "
+Operator/Punct: ,
+Unknown token: 
+Unknown token: "
+Keyword: struct
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: switch
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: typedef
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: union
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: unsigned
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: void
+Unknown token: "
+Operator/Punct: ,
+Unknown token: "
+Keyword: volatile
+Unknown token: "
+Operator/Punct: ,
+Unknown token: 
+Unknown token: "
+Keyword: while
+Unknown token: "
+Operator/Punct: ,
+Identifier: NULL
+Unknown token: 
+Operator/Punct: }
+Operator/Punct: ;
+Unknown token: 
+Unknown token: 
+Keyword: typedef
+Keyword: enum
+Operator/Punct: {
+Unknown token: 
+Identifier: TOKEN_KEYWORD
+Operator/Punct: ,
+Unknown token: 
+Identifier: TOKEN_IDENTIFIER
+Operator/Punct: ,
+Unknown token: 
+Identifier: TOKEN_CONSTANT
+Operator/Punct: ,
+Unknown token: 
+Identifier: TOKEN_OPERATOR
+Operator/Punct: ,
+Unknown token: 
+Identifier: TOKEN_PUNCTUATOR
+Unknown token: 
+Operator/Punct: }
+Identifier: TokenType
+Operator/Punct: ;
+Unknown token: 
+Unknown token: 
+Keyword: typedef
+Keyword: struct
+Operator/Punct: {
+Unknown token: 
+Keyword: char
+Identifier: lexeme
+Unknown token: [
+Identifier: MAX_IDENTIFIER_LEN
+Unknown token: ]
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Identifier: Identifier
+Operator/Punct: ;
+Unknown token: 
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Symbol
+Identifier: table
+Unknown token: 
+Identifier: Identifier
+Identifier: symbol_table
+Unknown token: [
+Identifier: MAX_IDENTIFIERS
+Unknown token: ]
+Operator/Punct: ;
+Unknown token: 
+Keyword: int
+Identifier: symbol_count
+Operator/Punct: =
+Number: 0
+Operator/Punct: ;
+Unknown token: 
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Store
+Identifier: lexical
+Identifier: errors
+Unknown token: 
+Keyword: typedef
+Keyword: struct
+Operator/Punct: {
+Unknown token: 
+Keyword: int
+Identifier: line
+Operator/Punct: ;
+Unknown token: 
+Keyword: char
+Identifier: msg
+Unknown token: [
+Number: 256
+Unknown token: ]
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Identifier: LexError
+Operator/Punct: ;
+Unknown token: 
+Unknown token: 
+Identifier: LexError
+Identifier: errors
+Unknown token: [
+Number: 1000
+Unknown token: ]
+Operator/Punct: ;
+Unknown token: 
+Keyword: int
+Identifier: error_count
+Operator/Punct: =
+Number: 0
+Operator/Punct: ;
+Unknown token: 
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Token
+Identifier: count
+Unknown token: 
+Keyword: int
+Identifier: token_count
+Operator/Punct: =
+Number: 0
+Operator/Punct: ;
+Unknown token: 
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Check
+Keyword: if
+Identifier: a
+Identifier: string
+Identifier: is
+Identifier: a
+Identifier: keyword
+Unknown token: 
+Keyword: int
+Identifier: is_keyword
+Operator/Punct: (
+Keyword: const
+Keyword: char
+Operator/Punct: *
+Identifier: str
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Keyword: for
+Operator/Punct: (
+Keyword: int
+Identifier: i
+Operator/Punct: =
+Number: 0
+Operator/Punct: ;
+Identifier: keywords
+Unknown token: [
+Identifier: i
+Unknown token: ]
+Operator/Punct: !=
+Identifier: NULL
+Operator/Punct: ;
+Identifier: i
+Operator/Punct: +
+Operator/Punct: +
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Keyword: if
+Operator/Punct: (
+Identifier: strcmp
+Operator/Punct: (
+Identifier: str
+Operator/Punct: ,
+Identifier: keywords
+Unknown token: [
+Identifier: i
+Unknown token: ]
+Operator/Punct: )
+Operator/Punct: ==
+Number: 0
+Operator/Punct: )
+Unknown token: 
+Keyword: return
+Number: 1
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Keyword: return
+Number: 0
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Check
+Keyword: if
+Identifier: identifier
+Identifier: is
+Identifier: already
+Identifier: in
+Identifier: symbol
+Identifier: table
+Unknown token: 
+Keyword: int
+Identifier: is_in_symbol_table
+Operator/Punct: (
+Keyword: const
+Keyword: char
+Operator/Punct: *
+Identifier: id
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Keyword: for
+Operator/Punct: (
+Keyword: int
+Identifier: i
+Operator/Punct: =
+Number: 0
+Operator/Punct: ;
+Identifier: i
+Operator/Punct: <
+Identifier: symbol_count
+Operator/Punct: ;
+Identifier: i
+Operator/Punct: +
+Operator/Punct: +
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Keyword: if
+Operator/Punct: (
+Identifier: strcmp
+Operator/Punct: (
+Identifier: symbol_table
+Unknown token: [
+Identifier: i
+Unknown token: ]
+Unknown token: .
+Identifier: lexeme
+Operator/Punct: ,
+Identifier: id
+Operator/Punct: )
+Operator/Punct: ==
+Number: 0
+Operator/Punct: )
+Unknown token: 
+Keyword: return
+Number: 1
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Keyword: return
+Number: 0
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Add
+Identifier: identifier
+Identifier: to
+Identifier: symbol
+Identifier: table
+Keyword: if
+Identifier: unique
+Unknown token: 
+Keyword: void
+Identifier: add_symbol
+Operator/Punct: (
+Keyword: const
+Keyword: char
+Operator/Punct: *
+Identifier: id
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Keyword: if
+Operator/Punct: (
+Unknown token: !
+Identifier: is_in_symbol_table
+Operator/Punct: (
+Identifier: id
+Operator/Punct: )
+Unknown token: &
+Unknown token: &
+Identifier: symbol_count
+Operator/Punct: <
+Identifier: MAX_IDENTIFIERS
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Identifier: strncpy
+Operator/Punct: (
+Identifier: symbol_table
+Unknown token: [
+Identifier: symbol_count
+Unknown token: ]
+Unknown token: .
+Identifier: lexeme
+Operator/Punct: ,
+Identifier: id
+Operator/Punct: ,
+Identifier: MAX_IDENTIFIER_LEN
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Identifier: symbol_table
+Unknown token: [
+Identifier: symbol_count
+Unknown token: ]
+Unknown token: .
+Identifier: lexeme
+Unknown token: [
+Identifier: MAX_IDENTIFIER_LEN
+Operator/Punct: -
+Number: 1
+Unknown token: ]
+Operator/Punct: =
+Unknown token: '
+Unknown token: \
+Number: 0
+Unknown token: '
+Operator/Punct: ;
+Unknown token: 
+Identifier: symbol_count
+Operator/Punct: +
+Operator/Punct: +
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Check
+Keyword: if
+Identifier: a
+Identifier: character
+Identifier: can
+Identifier: start
+Identifier: an
+Identifier: identifier
+Operator/Punct: (
+Identifier: letter
+Identifier: or
+Identifier: _
+Operator/Punct: )
+Unknown token: 
+Keyword: int
+Identifier: is_id_start
+Operator/Punct: (
+Keyword: char
+Identifier: c
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Keyword: return
+Operator/Punct: (
+Identifier: isalpha
+Operator/Punct: (
+Identifier: c
+Operator/Punct: )
+Unknown token: |
+Unknown token: |
+Identifier: c
+Operator/Punct: ==
+Unknown token: '
+Identifier: _
+Unknown token: '
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Check
+Keyword: if
+Identifier: a
+Identifier: character
+Identifier: can
+Identifier: be
+Identifier: part
+Identifier: of
+Identifier: an
+Identifier: identifier
+Operator/Punct: (
+Identifier: letter
+Operator/Punct: ,
+Identifier: digit
+Operator/Punct: ,
+Identifier: _
+Operator/Punct: )
+Unknown token: 
+Keyword: int
+Identifier: is_id_char
+Operator/Punct: (
+Keyword: char
+Identifier: c
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Keyword: return
+Operator/Punct: (
+Identifier: isalnum
+Operator/Punct: (
+Identifier: c
+Operator/Punct: )
+Unknown token: |
+Unknown token: |
+Identifier: c
+Operator/Punct: ==
+Unknown token: '
+Identifier: _
+Unknown token: '
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Check
+Keyword: if
+Identifier: a
+Identifier: character
+Identifier: is
+Identifier: an
+Identifier: operator
+Identifier: character
+Unknown token: 
+Keyword: int
+Identifier: is_operator_char
+Operator/Punct: (
+Keyword: char
+Identifier: c
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Keyword: const
+Keyword: char
+Identifier: ops
+Unknown token: [
+Unknown token: ]
+Operator/Punct: =
+Unknown token: "
+Operator/Punct: +
+Operator/Punct: -
+Operator/Punct: *
+Operator/Punct: /
+Unknown token: %
+Operator/Punct: =
+Unknown token: !
+Operator/Punct: <
+Operator/Punct: >
+Unknown token: &
+Unknown token: |
+Unknown token: ^
+Unknown token: ~
+Unknown token: "
+Operator/Punct: ;
+Unknown token: 
+Keyword: for
+Operator/Punct: (
+Keyword: int
+Identifier: i
+Operator/Punct: =
+Number: 0
+Operator/Punct: ;
+Identifier: ops
+Unknown token: [
+Identifier: i
+Unknown token: ]
+Operator/Punct: ;
+Identifier: i
+Operator/Punct: +
+Operator/Punct: +
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Keyword: if
+Operator/Punct: (
+Identifier: c
+Operator/Punct: ==
+Identifier: ops
+Unknown token: [
+Identifier: i
+Unknown token: ]
+Operator/Punct: )
+Unknown token: 
+Keyword: return
+Number: 1
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Keyword: return
+Number: 0
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Check
+Keyword: if
+Identifier: a
+Identifier: character
+Identifier: is
+Identifier: a
+Identifier: punctuator
+Unknown token: 
+Keyword: int
+Identifier: is_punctuator_char
+Operator/Punct: (
+Keyword: char
+Identifier: c
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Keyword: const
+Keyword: char
+Identifier: punc
+Unknown token: [
+Unknown token: ]
+Operator/Punct: =
+Unknown token: "
+Operator/Punct: (
+Operator/Punct: )
+Operator/Punct: ;
+Operator/Punct: {
+Operator/Punct: }
+Operator/Punct: ,
+Unknown token: [
+Unknown token: ]
+Unknown token: "
+Operator/Punct: ;
+Unknown token: 
+Keyword: for
+Operator/Punct: (
+Keyword: int
+Identifier: i
+Operator/Punct: =
+Number: 0
+Operator/Punct: ;
+Identifier: punc
+Unknown token: [
+Identifier: i
+Unknown token: ]
+Operator/Punct: ;
+Identifier: i
+Operator/Punct: +
+Operator/Punct: +
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Keyword: if
+Operator/Punct: (
+Identifier: c
+Operator/Punct: ==
+Identifier: punc
+Unknown token: [
+Identifier: i
+Unknown token: ]
+Operator/Punct: )
+Unknown token: 
+Keyword: return
+Number: 1
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Keyword: return
+Number: 0
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Add
+Identifier: lexical
+Identifier: error
+Unknown token: 
+Keyword: void
+Identifier: add_error
+Operator/Punct: (
+Keyword: int
+Identifier: line
+Operator/Punct: ,
+Keyword: const
+Keyword: char
+Operator/Punct: *
+Identifier: msg
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Keyword: if
+Operator/Punct: (
+Identifier: error_count
+Operator/Punct: <
+Number: 1000
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Identifier: errors
+Unknown token: [
+Identifier: error_count
+Unknown token: ]
+Unknown token: .
+Identifier: line
+Operator/Punct: =
+Identifier: line
+Operator/Punct: ;
+Unknown token: 
+Identifier: strncpy
+Operator/Punct: (
+Identifier: errors
+Unknown token: [
+Identifier: error_count
+Unknown token: ]
+Unknown token: .
+Identifier: msg
+Operator/Punct: ,
+Identifier: msg
+Operator/Punct: ,
+Number: 255
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Identifier: errors
+Unknown token: [
+Identifier: error_count
+Unknown token: ]
+Unknown token: .
+Identifier: msg
+Unknown token: [
+Number: 255
+Unknown token: ]
+Operator/Punct: =
+Unknown token: '
+Unknown token: \
+Number: 0
+Unknown token: '
+Operator/Punct: ;
+Unknown token: 
+Identifier: error_count
+Operator/Punct: +
+Operator/Punct: +
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Lexical
+Identifier: analyzer
+Keyword: for
+Identifier: one
+Identifier: line
+Unknown token: 
+Keyword: void
+Identifier: analyze_line
+Operator/Punct: (
+Keyword: const
+Keyword: char
+Operator/Punct: *
+Identifier: line
+Operator/Punct: ,
+Keyword: int
+Identifier: lineno
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Keyword: int
+Identifier: i
+Operator/Punct: =
+Number: 0
+Operator/Punct: ;
+Unknown token: 
+Keyword: int
+Identifier: len
+Operator/Punct: =
+Identifier: strlen
+Operator/Punct: (
+Identifier: line
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Unknown token: 
+Keyword: while
+Operator/Punct: (
+Identifier: i
+Operator/Punct: <
+Identifier: len
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Skip
+Identifier: whitespace
+Unknown token: 
+Keyword: if
+Operator/Punct: (
+Identifier: isspace
+Operator/Punct: (
+Identifier: line
+Unknown token: [
+Identifier: i
+Unknown token: ]
+Operator/Punct: )
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Identifier: i
+Operator/Punct: +
+Operator/Punct: +
+Operator/Punct: ;
+Unknown token: 
+Keyword: continue
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Handle
+Identifier: single
+Operator/Punct: -
+Identifier: line
+Identifier: comments
+Unknown token: :
+Operator/Punct: /
+Operator/Punct: /
+Unknown token: 
+Keyword: if
+Operator/Punct: (
+Identifier: line
+Unknown token: [
+Identifier: i
+Unknown token: ]
+Operator/Punct: ==
+Unknown token: '
+Operator/Punct: /
+Unknown token: '
+Unknown token: &
+Unknown token: &
+Operator/Punct: (
+Identifier: i
+Operator/Punct: +
+Number: 1
+Operator/Punct: <
+Identifier: len
+Operator/Punct: )
+Unknown token: &
+Unknown token: &
+Identifier: line
+Unknown token: [
+Identifier: i
+Operator/Punct: +
+Number: 1
+Unknown token: ]
+Operator/Punct: ==
+Unknown token: '
+Operator/Punct: /
+Unknown token: '
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Comment
+Identifier: till
+Identifier: end
+Identifier: of
+Identifier: line
+Operator/Punct: -
+Identifier: ignore
+Identifier: rest
+Unknown token: 
+Keyword: break
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Identifier
+Identifier: or
+Identifier: keyword
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Keyword
+Identifier: or
+Identifier: identifier
+Unknown token: 
+Keyword: if
+Operator/Punct: (
+Identifier: is_id_start
+Operator/Punct: (
+Identifier: line
+Unknown token: [
+Identifier: i
+Unknown token: ]
+Operator/Punct: )
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Keyword: int
+Identifier: start
+Operator/Punct: =
+Identifier: i
+Operator/Punct: ;
+Unknown token: 
+Identifier: i
+Operator/Punct: +
+Operator/Punct: +
+Operator/Punct: ;
+Unknown token: 
+Keyword: while
+Operator/Punct: (
+Identifier: i
+Operator/Punct: <
+Identifier: len
+Unknown token: &
+Unknown token: &
+Identifier: is_id_char
+Operator/Punct: (
+Identifier: line
+Unknown token: [
+Identifier: i
+Unknown token: ]
+Operator/Punct: )
+Operator/Punct: )
+Identifier: i
+Operator/Punct: +
+Operator/Punct: +
+Operator/Punct: ;
+Unknown token: 
+Unknown token: 
+Keyword: int
+Identifier: tok_len
+Operator/Punct: =
+Identifier: i
+Operator/Punct: -
+Identifier: start
+Operator/Punct: ;
+Unknown token: 
+Keyword: if
+Operator/Punct: (
+Identifier: tok_len
+Operator/Punct: >=
+Identifier: MAX_IDENTIFIER_LEN
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Identifier: add_error
+Operator/Punct: (
+Identifier: lineno
+Operator/Punct: ,
+Unknown token: "
+Identifier: Identifier
+Identifier: too
+Keyword: long
+Unknown token: "
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Keyword: continue
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Unknown token: 
+Keyword: char
+Identifier: token
+Unknown token: [
+Identifier: MAX_IDENTIFIER_LEN
+Unknown token: ]
+Operator/Punct: ;
+Unknown token: 
+Identifier: strncpy
+Operator/Punct: (
+Identifier: token
+Operator/Punct: ,
+Identifier: line
+Operator/Punct: +
+Identifier: start
+Operator/Punct: ,
+Identifier: tok_len
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Identifier: token
+Unknown token: [
+Identifier: tok_len
+Unknown token: ]
+Operator/Punct: =
+Unknown token: '
+Unknown token: \
+Number: 0
+Unknown token: '
+Operator/Punct: ;
+Unknown token: 
+Unknown token: 
+Keyword: if
+Operator/Punct: (
+Identifier: is_keyword
+Operator/Punct: (
+Identifier: token
+Operator/Punct: )
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Identifier: token_count
+Operator/Punct: +
+Operator/Punct: +
+Operator/Punct: ;
+Unknown token: 
+Identifier: printf
+Operator/Punct: (
+Unknown token: "
+Identifier: Token
+Unknown token: :
+Unknown token: %
+Operator/Punct: -
+Number: 15
+Identifier: s
+Unknown token: â
+Unknown token: †
+Unknown token: ’
+Identifier: Keyword
+Unknown token: \
+Identifier: n
+Unknown token: "
+Operator/Punct: ,
+Identifier: token
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Keyword: else
+Operator/Punct: {
+Unknown token: 
+Identifier: token_count
+Operator/Punct: +
+Operator/Punct: +
+Operator/Punct: ;
+Unknown token: 
+Identifier: printf
+Operator/Punct: (
+Unknown token: "
+Identifier: Token
+Unknown token: :
+Unknown token: %
+Operator/Punct: -
+Number: 15
+Identifier: s
+Unknown token: â
+Unknown token: †
+Unknown token: ’
+Identifier: Identifier
+Unknown token: \
+Identifier: n
+Unknown token: "
+Operator/Punct: ,
+Identifier: token
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Identifier: add_symbol
+Operator/Punct: (
+Identifier: token
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Keyword: continue
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Unknown token: 
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Numeric
+Identifier: constants
+Operator/Punct: (
+Identifier: only
+Identifier: integer
+Identifier: constants
+Identifier: here
+Operator/Punct: )
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Numeric
+Identifier: constants
+Unknown token: 
+Keyword: if
+Operator/Punct: (
+Identifier: isdigit
+Operator/Punct: (
+Identifier: line
+Unknown token: [
+Identifier: i
+Unknown token: ]
+Operator/Punct: )
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Keyword: int
+Identifier: start
+Operator/Punct: =
+Identifier: i
+Operator/Punct: ;
+Unknown token: 
+Keyword: while
+Operator/Punct: (
+Identifier: i
+Operator/Punct: <
+Identifier: len
+Unknown token: &
+Unknown token: &
+Identifier: isdigit
+Operator/Punct: (
+Identifier: line
+Unknown token: [
+Identifier: i
+Unknown token: ]
+Operator/Punct: )
+Operator/Punct: )
+Identifier: i
+Operator/Punct: +
+Operator/Punct: +
+Operator/Punct: ;
+Unknown token: 
+Unknown token: 
+Keyword: int
+Identifier: tok_len
+Operator/Punct: =
+Identifier: i
+Operator/Punct: -
+Identifier: start
+Operator/Punct: ;
+Unknown token: 
+Keyword: char
+Identifier: token
+Unknown token: [
+Number: 64
+Unknown token: ]
+Operator/Punct: ;
+Unknown token: 
+Keyword: if
+Operator/Punct: (
+Identifier: tok_len
+Operator/Punct: >
+Number: 63
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Identifier: add_error
+Operator/Punct: (
+Identifier: lineno
+Operator/Punct: ,
+Unknown token: "
+Identifier: Numeric
+Identifier: constant
+Identifier: too
+Keyword: long
+Unknown token: "
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Keyword: continue
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Unknown token: 
+Identifier: strncpy
+Operator/Punct: (
+Identifier: token
+Operator/Punct: ,
+Identifier: line
+Operator/Punct: +
+Identifier: start
+Operator/Punct: ,
+Identifier: tok_len
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Identifier: token
+Unknown token: [
+Identifier: tok_len
+Unknown token: ]
+Operator/Punct: =
+Unknown token: '
+Unknown token: \
+Number: 0
+Unknown token: '
+Operator/Punct: ;
+Unknown token: 
+Unknown token: 
+Identifier: token_count
+Operator/Punct: +
+Operator/Punct: +
+Operator/Punct: ;
+Unknown token: 
+Identifier: printf
+Operator/Punct: (
+Unknown token: "
+Identifier: Token
+Unknown token: :
+Unknown token: %
+Operator/Punct: -
+Number: 15
+Identifier: s
+Unknown token: â
+Unknown token: †
+Unknown token: ’
+Identifier: Constant
+Unknown token: \
+Identifier: n
+Unknown token: "
+Operator/Punct: ,
+Identifier: token
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Keyword: continue
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Unknown token: 
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Operators
+Operator/Punct: (
+Identifier: handle
+Identifier: multi
+Operator/Punct: -
+Keyword: char
+Identifier: ops
+Operator/Punct: ==
+Operator/Punct: ,
+Operator/Punct: !=
+Operator/Punct: ,
+Operator/Punct: <=
+Operator/Punct: ,
+Operator/Punct: >=
+Operator/Punct: ,
+Unknown token: &
+Unknown token: &
+Operator/Punct: ,
+Unknown token: |
+Unknown token: |
+Operator/Punct: )
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Operators
+Unknown token: 
+Keyword: if
+Operator/Punct: (
+Identifier: is_operator_char
+Operator/Punct: (
+Identifier: line
+Unknown token: [
+Identifier: i
+Unknown token: ]
+Operator/Punct: )
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Keyword: char
+Identifier: op
+Unknown token: [
+Number: 3
+Unknown token: ]
+Operator/Punct: =
+Operator/Punct: {
+Number: 0
+Operator/Punct: }
+Operator/Punct: ;
+Unknown token: 
+Identifier: op
+Unknown token: [
+Number: 0
+Unknown token: ]
+Operator/Punct: =
+Identifier: line
+Unknown token: [
+Identifier: i
+Unknown token: ]
+Operator/Punct: ;
+Unknown token: 
+Unknown token: 
+Keyword: if
+Operator/Punct: (
+Identifier: i
+Operator/Punct: +
+Number: 1
+Operator/Punct: <
+Identifier: len
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Keyword: char
+Identifier: next
+Operator/Punct: =
+Identifier: line
+Unknown token: [
+Identifier: i
+Operator/Punct: +
+Number: 1
+Unknown token: ]
+Operator/Punct: ;
+Unknown token: 
+Keyword: if
+Operator/Punct: (
+Operator/Punct: (
+Identifier: op
+Unknown token: [
+Number: 0
+Unknown token: ]
+Operator/Punct: ==
+Unknown token: '
+Operator/Punct: =
+Unknown token: '
+Unknown token: &
+Unknown token: &
+Identifier: next
+Operator/Punct: ==
+Unknown token: '
+Operator/Punct: =
+Unknown token: '
+Operator/Punct: )
+Unknown token: |
+Unknown token: |
+Unknown token: 
+Operator/Punct: (
+Identifier: op
+Unknown token: [
+Number: 0
+Unknown token: ]
+Operator/Punct: ==
+Unknown token: '
+Unknown token: !
+Unknown token: '
+Unknown token: &
+Unknown token: &
+Identifier: next
+Operator/Punct: ==
+Unknown token: '
+Operator/Punct: =
+Unknown token: '
+Operator/Punct: )
+Unknown token: |
+Unknown token: |
+Unknown token: 
+Operator/Punct: (
+Identifier: op
+Unknown token: [
+Number: 0
+Unknown token: ]
+Operator/Punct: ==
+Unknown token: '
+Operator/Punct: <
+Unknown token: '
+Unknown token: &
+Unknown token: &
+Identifier: next
+Operator/Punct: ==
+Unknown token: '
+Operator/Punct: =
+Unknown token: '
+Operator/Punct: )
+Unknown token: |
+Unknown token: |
+Unknown token: 
+Operator/Punct: (
+Identifier: op
+Unknown token: [
+Number: 0
+Unknown token: ]
+Operator/Punct: ==
+Unknown token: '
+Operator/Punct: >
+Unknown token: '
+Unknown token: &
+Unknown token: &
+Identifier: next
+Operator/Punct: ==
+Unknown token: '
+Operator/Punct: =
+Unknown token: '
+Operator/Punct: )
+Unknown token: |
+Unknown token: |
+Unknown token: 
+Operator/Punct: (
+Identifier: op
+Unknown token: [
+Number: 0
+Unknown token: ]
+Operator/Punct: ==
+Unknown token: '
+Unknown token: &
+Unknown token: '
+Unknown token: &
+Unknown token: &
+Identifier: next
+Operator/Punct: ==
+Unknown token: '
+Unknown token: &
+Unknown token: '
+Operator/Punct: )
+Unknown token: |
+Unknown token: |
+Unknown token: 
+Operator/Punct: (
+Identifier: op
+Unknown token: [
+Number: 0
+Unknown token: ]
+Operator/Punct: ==
+Unknown token: '
+Unknown token: |
+Unknown token: '
+Unknown token: &
+Unknown token: &
+Identifier: next
+Operator/Punct: ==
+Unknown token: '
+Unknown token: |
+Unknown token: '
+Operator/Punct: )
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Identifier: op
+Unknown token: [
+Number: 1
+Unknown token: ]
+Operator/Punct: =
+Identifier: next
+Operator/Punct: ;
+Unknown token: 
+Identifier: op
+Unknown token: [
+Number: 2
+Unknown token: ]
+Operator/Punct: =
+Unknown token: '
+Unknown token: \
+Number: 0
+Unknown token: '
+Operator/Punct: ;
+Unknown token: 
+Identifier: i
+Operator/Punct: +
+Operator/Punct: =
+Number: 2
+Operator/Punct: ;
+Unknown token: 
+Identifier: token_count
+Operator/Punct: +
+Operator/Punct: +
+Operator/Punct: ;
+Unknown token: 
+Identifier: printf
+Operator/Punct: (
+Unknown token: "
+Identifier: Token
+Unknown token: :
+Unknown token: %
+Operator/Punct: -
+Number: 15
+Identifier: s
+Unknown token: â
+Unknown token: †
+Unknown token: ’
+Identifier: Operator
+Unknown token: \
+Identifier: n
+Unknown token: "
+Operator/Punct: ,
+Identifier: op
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Keyword: continue
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Unknown token: 
+Identifier: op
+Unknown token: [
+Number: 1
+Unknown token: ]
+Operator/Punct: =
+Unknown token: '
+Unknown token: \
+Number: 0
+Unknown token: '
+Operator/Punct: ;
+Unknown token: 
+Identifier: i
+Operator/Punct: +
+Operator/Punct: +
+Operator/Punct: ;
+Unknown token: 
+Identifier: token_count
+Operator/Punct: +
+Operator/Punct: +
+Operator/Punct: ;
+Unknown token: 
+Identifier: printf
+Operator/Punct: (
+Unknown token: "
+Identifier: Token
+Unknown token: :
+Unknown token: %
+Operator/Punct: -
+Number: 15
+Identifier: s
+Unknown token: â
+Unknown token: †
+Unknown token: ’
+Identifier: Operator
+Unknown token: \
+Identifier: n
+Unknown token: "
+Operator/Punct: ,
+Identifier: op
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Keyword: continue
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Unknown token: 
+Unknown token: 
+Keyword: if
+Operator/Punct: (
+Identifier: is_punctuator_char
+Operator/Punct: (
+Identifier: line
+Unknown token: [
+Identifier: i
+Unknown token: ]
+Operator/Punct: )
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Keyword: char
+Identifier: sep
+Unknown token: [
+Number: 2
+Unknown token: ]
+Operator/Punct: =
+Operator/Punct: {
+Identifier: line
+Unknown token: [
+Identifier: i
+Unknown token: ]
+Operator/Punct: ,
+Unknown token: '
+Unknown token: \
+Number: 0
+Unknown token: '
+Operator/Punct: }
+Operator/Punct: ;
+Unknown token: 
+Identifier: i
+Operator/Punct: +
+Operator/Punct: +
+Operator/Punct: ;
+Unknown token: 
+Identifier: token_count
+Operator/Punct: +
+Operator/Punct: +
+Operator/Punct: ;
+Unknown token: 
+Identifier: printf
+Operator/Punct: (
+Unknown token: "
+Identifier: Token
+Unknown token: :
+Unknown token: %
+Operator/Punct: -
+Number: 15
+Identifier: s
+Unknown token: â
+Unknown token: †
+Unknown token: ’
+Identifier: Separator
+Unknown token: \
+Identifier: n
+Unknown token: "
+Operator/Punct: ,
+Identifier: sep
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Keyword: continue
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Unknown token: 
+Unknown token: 
+Keyword: char
+Identifier: err_msg
+Unknown token: [
+Number: 100
+Unknown token: ]
+Operator/Punct: ;
+Unknown token: 
+Identifier: snprintf
+Operator/Punct: (
+Identifier: err_msg
+Operator/Punct: ,
+Keyword: sizeof
+Operator/Punct: (
+Identifier: err_msg
+Operator/Punct: )
+Operator/Punct: ,
+Unknown token: "
+Identifier: Invalid
+Identifier: symbol
+Unknown token: '
+Unknown token: %
+Identifier: c
+Unknown token: '
+Unknown token: "
+Operator/Punct: ,
+Identifier: line
+Unknown token: [
+Identifier: i
+Unknown token: ]
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Identifier: add_error
+Operator/Punct: (
+Identifier: lineno
+Operator/Punct: ,
+Identifier: err_msg
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Identifier: i
+Operator/Punct: +
+Operator/Punct: +
+Operator/Punct: ;
+Unknown token: 
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Unknown token: 
+Keyword: int
+Identifier: main
+Operator/Punct: (
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Keyword: char
+Identifier: line
+Unknown token: [
+Identifier: MAX_LINE_LEN
+Unknown token: ]
+Operator/Punct: ;
+Unknown token: 
+Keyword: int
+Identifier: lineno
+Operator/Punct: =
+Number: 0
+Operator/Punct: ;
+Unknown token: 
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Identifier: Hardcoded
+Identifier: input
+Identifier: source
+Identifier: code
+Identifier: lines
+Unknown token: 
+Keyword: const
+Keyword: char
+Operator/Punct: *
+Identifier: source_code
+Unknown token: [
+Unknown token: ]
+Operator/Punct: =
+Operator/Punct: {
+Unknown token: 
+Unknown token: "
+Keyword: int
+Identifier: main
+Operator/Punct: (
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: "
+Operator/Punct: ,
+Unknown token: 
+Unknown token: "
+Keyword: int
+Identifier: x
+Operator/Punct: =
+Number: 10
+Operator/Punct: ;
+Unknown token: "
+Operator/Punct: ,
+Unknown token: 
+Unknown token: "
+Keyword: int
+Identifier: y
+Operator/Punct: =
+Number: 2
+Operator/Punct: ;
+Unknown token: "
+Operator/Punct: ,
+Unknown token: 
+Unknown token: "
+Keyword: int
+Identifier: z
+Operator/Punct: =
+Number: 2
+Operator/Punct: ;
+Unknown token: "
+Operator/Punct: ,
+Unknown token: 
+Unknown token: "
+Operator/Punct: /
+Operator/Punct: /
+Identifier: This
+Identifier: is
+Identifier: a
+Identifier: comment
+Unknown token: "
+Operator/Punct: ,
+Unknown token: 
+Unknown token: "
+Keyword: if
+Operator/Punct: (
+Identifier: x
+Operator/Punct: >
+Number: 5
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: "
+Operator/Punct: ,
+Unknown token: 
+Unknown token: "
+Identifier: x
+Operator/Punct: =
+Identifier: x
+Operator/Punct: +
+Number: 1
+Operator/Punct: ;
+Unknown token: "
+Operator/Punct: ,
+Unknown token: 
+Unknown token: "
+Operator/Punct: }
+Unknown token: "
+Operator/Punct: ,
+Unknown token: 
+Unknown token: "
+Operator/Punct: }
+Unknown token: "
+Unknown token: 
+Operator/Punct: }
+Operator/Punct: ;
+Unknown token: 
+Unknown token: 
+Keyword: int
+Identifier: num_lines
+Operator/Punct: =
+Keyword: sizeof
+Operator/Punct: (
+Identifier: source_code
+Operator/Punct: )
+Operator/Punct: /
+Keyword: sizeof
+Operator/Punct: (
+Identifier: source_code
+Unknown token: [
+Number: 0
+Unknown token: ]
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Unknown token: 
+Keyword: for
+Operator/Punct: (
+Keyword: int
+Identifier: i
+Operator/Punct: =
+Number: 0
+Operator/Punct: ;
+Identifier: i
+Operator/Punct: <
+Identifier: num_lines
+Operator/Punct: ;
+Identifier: i
+Operator/Punct: +
+Operator/Punct: +
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Identifier: analyze_line
+Operator/Punct: (
+Identifier: source_code
+Unknown token: [
+Identifier: i
+Unknown token: ]
+Operator/Punct: ,
+Identifier: i
+Operator/Punct: +
+Number: 1
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Unknown token: 
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Number: 1
+Operator/Punct: )
+Identifier: Print
+Identifier: lexical
+Identifier: errors
+Unknown token: 
+Keyword: if
+Operator/Punct: (
+Identifier: error_count
+Operator/Punct: ==
+Number: 0
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Identifier: printf
+Operator/Punct: (
+Unknown token: "
+Identifier: No
+Identifier: lexical
+Identifier: errors
+Unknown token: .
+Unknown token: \
+Identifier: n
+Unknown token: "
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Keyword: else
+Operator/Punct: {
+Unknown token: 
+Identifier: printf
+Operator/Punct: (
+Unknown token: "
+Identifier: Lexical
+Identifier: Errors
+Unknown token: :
+Unknown token: \
+Identifier: n
+Unknown token: "
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Keyword: for
+Operator/Punct: (
+Keyword: int
+Identifier: i
+Operator/Punct: =
+Number: 0
+Operator/Punct: ;
+Identifier: i
+Operator/Punct: <
+Identifier: error_count
+Operator/Punct: ;
+Identifier: i
+Operator/Punct: +
+Operator/Punct: +
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Identifier: printf
+Operator/Punct: (
+Unknown token: "
+Identifier: Line
+Unknown token: %
+Identifier: d
+Unknown token: :
+Unknown token: %
+Identifier: s
+Unknown token: \
+Identifier: n
+Unknown token: "
+Operator/Punct: ,
+Identifier: errors
+Unknown token: [
+Identifier: i
+Unknown token: ]
+Unknown token: .
+Identifier: line
+Operator/Punct: ,
+Identifier: errors
+Unknown token: [
+Identifier: i
+Unknown token: ]
+Unknown token: .
+Identifier: msg
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Identifier: printf
+Operator/Punct: (
+Unknown token: "
+Unknown token: \
+Identifier: n
+Unknown token: "
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Number: 2
+Operator/Punct: )
+Identifier: Print
+Identifier: symbol
+Identifier: table
+Unknown token: 
+Identifier: printf
+Operator/Punct: (
+Unknown token: "
+Identifier: Symbol
+Identifier: Table
+Operator/Punct: (
+Identifier: Unique
+Identifier: Identifiers
+Operator/Punct: )
+Unknown token: :
+Unknown token: \
+Identifier: n
+Unknown token: "
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Keyword: if
+Operator/Punct: (
+Identifier: symbol_count
+Operator/Punct: ==
+Number: 0
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Identifier: printf
+Operator/Punct: (
+Unknown token: "
+Identifier: No
+Identifier: identifiers
+Identifier: found
+Unknown token: .
+Unknown token: \
+Identifier: n
+Unknown token: "
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Keyword: else
+Operator/Punct: {
+Unknown token: 
+Keyword: for
+Operator/Punct: (
+Keyword: int
+Identifier: i
+Operator/Punct: =
+Number: 0
+Operator/Punct: ;
+Identifier: i
+Operator/Punct: <
+Identifier: symbol_count
+Operator/Punct: ;
+Identifier: i
+Operator/Punct: +
+Operator/Punct: +
+Operator/Punct: )
+Operator/Punct: {
+Unknown token: 
+Identifier: printf
+Operator/Punct: (
+Unknown token: "
+Unknown token: %
+Identifier: s
+Unknown token: \
+Identifier: n
+Unknown token: "
+Operator/Punct: ,
+Identifier: symbol_table
+Unknown token: [
+Identifier: i
+Unknown token: ]
+Unknown token: .
+Identifier: lexeme
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+Identifier: printf
+Operator/Punct: (
+Unknown token: "
+Unknown token: \
+Identifier: n
+Unknown token: "
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Unknown token: 
+Operator/Punct: /
+Operator/Punct: /
+Number: 3
+Operator/Punct: )
+Identifier: Print
+Identifier: total
+Identifier: token
+Identifier: count
+Unknown token: 
+Identifier: printf
+Operator/Punct: (
+Unknown token: "
+Identifier: Total
+Identifier: tokens
+Unknown token: :
+Unknown token: %
+Identifier: d
+Unknown token: \
+Identifier: n
+Unknown token: "
+Operator/Punct: ,
+Identifier: token_count
+Operator/Punct: )
+Operator/Punct: ;
+Unknown token: 
+Unknown token: 
+Keyword: return
+Number: 0
+Operator/Punct: ;
+Unknown token: 
+Operator/Punct: }
+Unknown token: 
+
+Total tokens: 2381
+Symbol table (identifiers):
+Online
+C
+Compiler
+Code
+Compile
+Run
+and
+Debug
+program
+online
+Write
+your
+code
+in
+this
+editor
+press
+button
+to
+compile
+execute
+it
+include
+stdio
+h
+stdlib
+string
+ctype
+define
+MAX_IDENTIFIERS
+MAX_IDENTIFIER_LEN
+MAX_LINE_LEN
+Keywords
+list
+keywords
+auto
+NULL
+TOKEN_KEYWORD
+TOKEN_IDENTIFIER
+TOKEN_CONSTANT
+TOKEN_OPERATOR
+TOKEN_PUNCTUATOR
+TokenType
+lexeme
+Identifier
+Symbol
+table
+symbol_table
+symbol_count
+Store
+lexical
+errors
+line
+msg
+LexError
+error_count
+Token
+count
+token_count
+Check
+a
+is
+keyword
+is_keyword
+str
+i
+strcmp
+identifier
+already
+symbol
+is_in_symbol_table
+id
+Add
+unique
+add_symbol
+strncpy
+character
+can
+start
+an
+letter
+or
+_
+is_id_start
+c
+isalpha
+be
+part
+of
+digit
+is_id_char
+isalnum
+operator
+is_operator_char
+ops
+punctuator
+is_punctuator_char
+punc
+error
+add_error
+Lexical
+analyzer
+one
+analyze_line
+lineno
+len
+strlen
+Skip
+whitespace
+isspace
+Handle
+single
+comments
+Comment
+till
+end
+ignore
+rest
+Keyword
+tok_len
+too
+token
+printf
+s
+n
+Numeric
+constants
+only
+integer
+here
+isdigit
+constant
+Constant
+Operators
+handle
+multi
+op
+next
+Operator
+sep
+Separator
+err_msg
+snprintf
+Invalid
+main
+Hardcoded
+input
+source
+lines
+source_code
+x
+y
+z
+This
+comment
+num_lines
+Print
+No
+Errors
+Line
+d
+Table
+Unique
+Identifiers
+identifiers
+found
+total
+Total
+tokens

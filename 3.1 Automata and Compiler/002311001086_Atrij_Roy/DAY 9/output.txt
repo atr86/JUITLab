@@ -1,0 +1,27 @@
+Enter number of productions: 4
+Enter productions (use '->' and 'e' for epsilon):
+S->aBc
+S->ab
+B->SB
+B->e
+
+--- PDA Transition Table ---
+
+Current State  Input     Stack Top   Next State     Stack Push  
+----------------------------------------------------------------
+q_start        e         Z0          q_loop         S Z0        
+q_loop         e         S           q_loop         aBc         
+q_loop         e         S           q_loop         ab          
+q_loop         e         B           q_loop         SB          
+q_loop         e         B           q_loop         e           
+q_loop         a         a           q_loop         e           
+q_loop         b         b           q_loop         e           
+q_loop         c         c           q_loop         e           
+q_loop         e         Z0          q_accept       e           
+
+Enter input string to test: ab
+
+Result: ✅ Accepted by PDA
+
+
+=== Code Execution Successful ===
